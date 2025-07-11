@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Identity;
+THIS SHOULD BE A LINTER ERRORusing Microsoft.AspNetCore.Identity;
 
 namespace AuthAPI.Models
 {
